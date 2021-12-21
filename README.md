@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @senamihodonu
 - 👀 I’m interested in developing my skills as a computer scientist
 - 🌱 I’m currently in the computer science program at Boise State University
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on computer science related projects
 - 📫 How to reach me: abimbolahodonu@u.boisestate.edu
 
 <!---
