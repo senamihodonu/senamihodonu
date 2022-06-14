@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @senamihodonu
-- 👀 I’m interested in developing my skills as a computer scientist
+- 👀 I’m interested in developing my skills as a software developer
 - 🌱 I’m currently in the computer science program at Boise State University
-- 💞️ I’m looking to collaborate on computer science related projects
-- 📫 How to reach me: abimbolahodonu@u.boisestate.edu
+- 💞️ Anticipated graduation of Fall 2022
+- 📫 How to reach me: shodonu@outlook.com
 
 <!---
 senamihodonu/senamihodonu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
